@@ -7,7 +7,7 @@ It also includes ready-to-use text files so you can run the program with sample 
 - `main.c` → the full program
 - `data/produits.txt` → sample products data
 - `data/clients.txt` → sample clients data
-- `docs/rapport.pdf` → project report
+- `docs/RAPPORT_Mini-Supermarche.pdf` → project report
 
 ## How the program loads data (.txt)
 The program reads the sample files when it starts (or from a menu option), using `fopen()`.
